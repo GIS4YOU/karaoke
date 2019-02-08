@@ -75,7 +75,8 @@ body {
 #accordion ul li:nth-of-type(31), 
 #accordion ul li:nth-of-type(33), 
 #accordion ul li:nth-of-type(35),
-#accordion ul li:nth-of-type(37) { 
+#accordion ul li:nth-of-type(37),
+#accordion ul li:nth-of-type(39) { 
     background-color: #30354a; 
 }
 
@@ -97,7 +98,8 @@ body {
 #accordion ul li:nth-of-type(32),
 #accordion ul li:nth-of-type(34),
 #accordion ul li:nth-of-type(36),
-#accordion ul li:nth-of-type(38) { 
+#accordion ul li:nth-of-type(38),
+#accordion ul li:nth-of-type(40) { 
     background-color: #454c69; 
 }
 
